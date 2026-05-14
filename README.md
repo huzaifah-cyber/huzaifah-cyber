@@ -1,4 +1,4 @@
-<h1>Hi, I'm Huzaifah! <br/><a href="https://www.linkedin.com/in/huzaifah-cyber/">Cybersecurity Professional</a>, <a href="https://github.com/huzaifah-cyber"><a href="https://www.github.com/huzaifah-cyber">Programmer</a>
+<h1>Hi, I'm Huzaifah! <br/><a href="https://www.linkedin.com/in/huzaifah-cyber/">Cybersecurity/IT Professional</a> & <a href="https://github.com/huzaifah-cyber"><a href="https://www.github.com/huzaifah-cyber">Programmer</a>
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
