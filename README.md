@@ -18,6 +18,10 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
+<h2>📜 Certifications </h2>
+-Microsoft Azure Security Engineer Associate, AZ 500 (In Progress)<br/>
+-Google Cybersecurity Professional Certificate<br/>
+-Google IT Support Professional Certificate
 
 <h2> 🤝 Connect with me:</h2>
 
