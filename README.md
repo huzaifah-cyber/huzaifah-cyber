@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- Almost done...
+- **[Enterprise Service Desk Platform: Production-Ready osTicket Deployment](https://github.com/huzaifah-cyber/Enterprise-Service-Desk-Platform)**
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
