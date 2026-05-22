@@ -2,20 +2,21 @@
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Work in progress...</b>
+- Work in progress...
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Almost done...</b>
+- Almost done...
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Uploading...</b>
+- Uploading...
 
 <h2>📜 Certifications </h2>
--Azure Security Engineer Associate, AZ 500 (In Progress)<br/>
--Google Cybersecurity Professional Certificate<br/>
--Google IT Support Professional Certificate
+
+- Azure Security Engineer Associate, AZ 500 (In Progress)<br/>
+- Google Cybersecurity Professional Certificate<br/>
+- Google IT Support Professional Certificate
 
 <h2> 🤝 Connect with me:</h2>
 
