@@ -10,6 +10,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- **[Vigenere Cipher Project in Java](https://github.com/huzaifah-cyber/Vigenere-Cipher-Project)**
+
 - **[Hangman Game in Python](https://github.com/huzaifah-cyber/hangman-python)**
 
 <h2>📜 Certifications </h2>
