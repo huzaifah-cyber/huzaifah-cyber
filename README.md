@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- **[Phishing Email Analyzer](https://github.com/huzaifah-cyber/CS50P-Project)**
+- **[Phishing Email Analyzer in Python](https://github.com/huzaifah-cyber/CS50P-Project)**
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- **[Hangman game in python](https://github.com/huzaifah-cyber/hangman-python)**
+- **[Hangman Game in Python](https://github.com/huzaifah-cyber/hangman-python)**
 
 <h2>📜 Certifications </h2>
 
