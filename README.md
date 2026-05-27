@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- Work in progress...
+- **[Phishing Email Analyzer](https://github.com/huzaifah-cyber/CS50P-Project)**
 
 <h2>👨‍💻 IT Projects:</h2>
 
