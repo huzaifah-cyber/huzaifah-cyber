@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- Uploading...
+- **[Hangman game in python](https://github.com/huzaifah-cyber/hangman-python)**
 
 <h2>📜 Certifications </h2>
 
