@@ -1,6 +1,8 @@
 <h1>Hey, I'm Huzaifah! <br/><a href="https://www.linkedin.com/in/huzaifah-cyber/">Cybersecurity and IT Professional</a><a href="https://github.com/huzaifah-cyber"></a></h1>
   
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber & Cloud Security Projects:</h2>
+
+- **[Azure Security Engineering (AZ-500) Labs](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
 - **[Phishing Email Analyzer in Python](https://github.com/huzaifah-cyber/CS50P-Project)**
 
