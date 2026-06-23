@@ -18,7 +18,7 @@
 
 <h2>📜 Certifications </h2>
 
-- Azure Security Engineer Associate, AZ 500 (Expected 6/2026)<br/>
+- Microsoft Azure Security Engineer Associate (AZ-500) (Expected 6/2026)<br/>
 - Google Cybersecurity Professional Certificate<br/>
 - Google IT Support Professional Certificate
 
