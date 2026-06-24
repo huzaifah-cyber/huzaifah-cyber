@@ -14,8 +14,6 @@
 
 - **[Vigenere Cipher Project in Java](https://github.com/huzaifah-cyber/Vigenere-Cipher-Project)**
 
-- **[Hangman Game in Python](https://github.com/huzaifah-cyber/hangman-python)**
-
 <h2>📜 Certifications </h2>
 
 - Microsoft Azure Security Engineer Associate (AZ-500) (Expected 6/2026)<br/>
