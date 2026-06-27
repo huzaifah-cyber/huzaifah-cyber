@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Cyber & Cloud Security Projects:</h2>
 
-- **[Azure Security Engineering (AZ-500) Labs](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
+- **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
 - **[Phishing Email Analyzer in Python](https://github.com/huzaifah-cyber/CS50P-Project)**
 
