@@ -6,13 +6,13 @@
 
 - **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
-- **[Phishing Email Analyzer in Python](https://github.com/huzaifah-cyber/CS50P-Project)**
-
 <h2>👨‍💻 IT Projects:</h2>
 
 - **[Enterprise Service Desk Platform: Production-Ready osTicket Deployment](https://github.com/huzaifah-cyber/Enterprise-Service-Desk-Platform)**
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
+- **[Phishing Email Analyzer in Python](https://github.com/huzaifah-cyber/CS50P-Project)**
 
 - **[Vigenere Cipher Project in Java](https://github.com/huzaifah-cyber/Vigenere-Cipher-Project)**
 
