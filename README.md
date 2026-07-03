@@ -2,6 +2,8 @@
   
 <h2>👨‍💻 Cyber & Cloud Security Projects:</h2>
 
+- **[Azure SOC Honeypot with Attack Map & Cloud Security Hardening](https://github.com/huzaifah-cyber/Azure-SOC-Honeypot-with-Attack-Map)**
+
 - **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
 - **[Phishing Email Analyzer in Python](https://github.com/huzaifah-cyber/CS50P-Project)**
