@@ -4,6 +4,8 @@
 
 - **[Azure SOC Honeypot with Attack Map & Cloud Security Hardening](https://github.com/huzaifah-cyber/Azure-SOC-Honeypot-with-Attack-Map)**
 
+- **[Vulnerability Management with Tenable Nessus & DISA STIG Hardening](https://github.com/huzaifah-cyber/Vulnerability-Management-with-Tenable-Nessus/tree/main)**
+
 - **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
 <h2>👨‍💻 IT Projects:</h2>
