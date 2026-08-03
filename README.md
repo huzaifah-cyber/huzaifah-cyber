@@ -10,7 +10,9 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- **[Enterprise Service Desk Platform: Production-Ready osTicket Deployment](https://github.com/huzaifah-cyber/Enterprise-Service-Desk-Platform)**
+- **[Enterprise Windows Active Directory Lab with Local DNS/DHCP, Group Policies & Software Deployment](https://github.com/huzaifah-cyber/Enterprise-Windows-Active-Directory)**
+
+- **[Service Desk Infrastructure: Production osTicket Deployment](https://github.com/huzaifah-cyber/Enterprise-Service-Desk-Platform)**
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
