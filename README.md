@@ -35,5 +35,4 @@
 
 [linkedin]: https://linkedin.com/in/huzaifah-cyber
 [gmail]: mailto:mhwork70@gmail.com
-
 ![](https://komarev.com/ghpvc/?username=huzaifah-cyber&label=Profile%20Views&color=0e75b6&style=flat)
