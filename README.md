@@ -26,7 +26,7 @@
 - Google Cybersecurity Professional Certificate<br/>
 - Google IT Support Professional Certificate
 - Google AI Professional Certificate
-- Harvard University's CS50(Python & Cybersecurity)
+- Harvard's CS50(Python & Cybersecurity)
 
 <h2> 🤝 Connect with me:</h2>
 
