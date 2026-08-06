@@ -35,6 +35,11 @@
 [<img align="left" alt="Huzaifah | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Huzaifah | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
+<br clear="left" />
+
 [linkedin]: https://linkedin.com/in/huzaifah-cyber
 [gmail]: mailto:mhwork70@gmail.com
+
+<br>
+
 ![](https://komarev.com/ghpvc/?username=huzaifah-cyber&label=Profile%20Views&color=0e75b6&style=flat)
