@@ -6,7 +6,7 @@
 
 - **[Vulnerability Management with Tenable Nessus & DISA STIG Hardening](https://github.com/huzaifah-cyber/Vulnerability-Management-with-Tenable-Nessus/tree/main)**
 
-- **[Windows 11 DISA STIG Remediations (PowerShell)](https://github.com/huzaifah-cyber/Windows-11-STIG-Remediations)**
+- **[Windows 11 DISA STIG Remediations using PowerShell](https://github.com/huzaifah-cyber/Windows-11-STIG-Remediations)**
 
 - **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
