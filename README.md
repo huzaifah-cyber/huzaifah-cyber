@@ -8,6 +8,8 @@
 
 - **[Windows 11 DISA STIG Remediations using PowerShell](https://github.com/huzaifah-cyber/Windows-11-STIG-Remediations)**
 
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/huzaifah-cyber/threat-hunt-tor-scenario/tree/main)**
+
 - **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
 <h2>👨‍💻 IT Projects:</h2>
