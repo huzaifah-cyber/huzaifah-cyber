@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Cyber & Cloud Security Projects:</h2>
 
-- **[Azure SOC Honeypot with Attack Map & Cloud Security Hardening](https://github.com/huzaifah-cyber/Azure-SOC-Honeypot-with-Attack-Map)**
+- **[Azure SOC Honeypot with Attack Map & Cloud Security Hardening](https://github.com/huzaifah-cyber/Azure-SOC-Honeypot-with-Attack-Map)** (💎Flagship)
 
 - **[Vulnerability Management with Tenable Nessus & DISA STIG Hardening](https://github.com/huzaifah-cyber/Vulnerability-Management-with-Tenable-Nessus/tree/main)**
 
@@ -16,7 +16,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- **[Enterprise Windows Active Directory Lab with Local DNS/DHCP, Group Policies & Software Deployment](https://github.com/huzaifah-cyber/Enterprise-Windows-Active-Directory)**
+- **[Enterprise Windows Active Directory Lab with Local DNS/DHCP, Group Policies & Software Deployment](https://github.com/huzaifah-cyber/Enterprise-Windows-Active-Directory)** (💎Flagship)
 
 - **[Service Desk Infrastructure: Production osTicket Deployment](https://github.com/huzaifah-cyber/Enterprise-Service-Desk-Platform)**
 
