@@ -12,6 +12,8 @@
 
 - **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
+- **[Vulnerability Management Program Implementation](https://github.com/huzaifah-cyber/Vulnerability-Management-Program-Implementation)**
+
 <h2>👨‍💻 IT Projects:</h2>
 
 - **[Enterprise Windows Active Directory Lab with Local DNS/DHCP, Group Policies & Software Deployment](https://github.com/huzaifah-cyber/Enterprise-Windows-Active-Directory)**
