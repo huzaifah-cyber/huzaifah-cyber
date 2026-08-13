@@ -4,15 +4,21 @@
 
 - **[Azure SOC Honeypot with Attack Map & Cloud Security Hardening](https://github.com/huzaifah-cyber/Azure-SOC-Honeypot-with-Attack-Map)** (💎**Flagship**)
 
-- **[Vulnerability Management with Tenable Nessus & DISA STIG Hardening](https://github.com/huzaifah-cyber/Vulnerability-Management-with-Tenable-Nessus/tree/main)**
-
 - **[Windows 11 DISA STIG Remediations using PowerShell](https://github.com/huzaifah-cyber/Windows-11-STIG-Remediations)**
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/huzaifah-cyber/threat-hunt-tor-scenario/tree/main)**
 
 - **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
+<h2>👨‍💻 Vulnerability Management Projects:</h2>
+
+- **[Vulnerability Management with Tenable Nessus & DISA STIG Hardening](https://github.com/huzaifah-cyber/Vulnerability-Management-with-Tenable-Nessus/tree/main)** (💎**Flagship**)
+
 - **[Vulnerability Management Program Implementation](https://github.com/huzaifah-cyber/Vulnerability-Management-Program-Implementation)**
+
+<h2>👨‍💻 Threat Hunting Records:</h2>
+
+- **[Threat Hunting: Operation Overreach](https://github.com/huzaifah-cyber/threat-hunt-operation-overreach)** (💎**Flagship**)
+
+- **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/huzaifah-cyber/threat-hunt-tor-scenario/tree/main)**
 
 <h2>👨‍💻 IT Projects:</h2>
 
