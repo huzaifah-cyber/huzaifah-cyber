@@ -14,7 +14,7 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/huzaifah-cyber/Vulnerability-Management-Program-Implementation)**
 
-<h2>👨‍💻 Threat Hunting Records:</h2>
+<h2>👨‍💻 Threat Hunting Record:</h2>
 
 - **[Threat Hunting: Operation Overreach](https://github.com/huzaifah-cyber/threat-hunt-operation-overreach)** (💎**Flagship**)
 
