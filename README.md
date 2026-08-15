@@ -1,6 +1,6 @@
 <h1>Welcome, I'm Huzaifah! <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=FF0000&background=FFFFFFFF&center=false&vCenter=true&width=1100&height=40&lines=Cybersecurity;Information+Technology;Cloud+Security;Professional;&repeat=false" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=700&color=FF0000&background=FFFFFFFF&center=false&vCenter=true&width=1100&height=40&lines=Cybersecurity;Information+Technology;Cloud+Security;Professional;&repeat=false" alt="Typing SVG">
   
 <h2>👨‍💻 Cyber & Cloud Security Projects:</h2>
 
