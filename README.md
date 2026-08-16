@@ -32,7 +32,7 @@
 
 - **[Phishing Email Analyzer in Python](https://github.com/huzaifah-cyber/CS50P-Project)**
 
-- **[Vigenere Cipher Project in Java](https://github.com/huzaifah-cyber/Vigenere-Cipher-Project)**
+- **[Vigenère Cipher Project in Java](https://github.com/huzaifah-cyber/Vigenere-Cipher-Project)**
 
 <h2>📜 Certifications </h2>
 
