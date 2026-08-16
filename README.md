@@ -20,6 +20,8 @@
 
 - **[Threat Hunting: Operation Overreach](https://github.com/huzaifah-cyber/threat-hunt-operation-overreach)** (💎**Flagship**)
 
+- **[Threat Hunting: Just Another Day](https://github.com/huzaifah-cyber/threat-hunt-jad-1)**
+
 - **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/huzaifah-cyber/threat-hunt-tor-scenario/tree/main)**
 
 <h2>👨‍💻 IT Projects:</h2>
