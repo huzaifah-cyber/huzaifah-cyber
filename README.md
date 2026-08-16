@@ -4,7 +4,7 @@
   
 <h2>👨‍💻 Cyber & Cloud Security Projects:</h2>
 
-- **[Azure SOC Honeypot with Attack Map & Cloud Security Hardening](https://github.com/huzaifah-cyber/Azure-SOC-Honeypot-with-Attack-Map)** (💎**Flagship**)
+- **[Azure SOC Honeypot with Attack Map & Cloud Security Hardening](https://github.com/huzaifah-cyber/Azure-SOC-Honeypot-with-Attack-Map)** (🥇**Flagship**)
 
 - **[Windows 11 DISA STIG Remediations using PowerShell](https://github.com/huzaifah-cyber/Windows-11-STIG-Remediations)**
 
@@ -12,13 +12,13 @@
 
 <h2>👨‍💻 Vulnerability Management Projects:</h2>
 
-- **[Vulnerability Management with Tenable Nessus & DISA STIG Hardening](https://github.com/huzaifah-cyber/Vulnerability-Management-with-Tenable-Nessus/tree/main)** (💎**Flagship**)
+- **[Vulnerability Management with Tenable Nessus & DISA STIG Hardening](https://github.com/huzaifah-cyber/Vulnerability-Management-with-Tenable-Nessus/tree/main)** (🥇**Flagship**)
 
 - **[Vulnerability Management Program Implementation](https://github.com/huzaifah-cyber/Vulnerability-Management-Program-Implementation)**
 
 <h2>👨‍💻 Threat Hunting Record:</h2>
 
-- **[Threat Hunting: Operation Overreach](https://github.com/huzaifah-cyber/threat-hunt-operation-overreach)** (💎**Flagship**)
+- **[Threat Hunting: Operation Overreach](https://github.com/huzaifah-cyber/threat-hunt-operation-overreach)** (🥇**Flagship**)
 
 - **[Threat Hunting: Just Another Day](https://github.com/huzaifah-cyber/threat-hunt-jad-1)**
 
@@ -26,7 +26,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- **[Enterprise Windows Active Directory Lab with Local DNS/DHCP, Group Policies & Software Deployment](https://github.com/huzaifah-cyber/Enterprise-Windows-Active-Directory)** (💎**Flagship**)
+- **[Enterprise Windows Active Directory Lab with Local DNS/DHCP, Group Policies & Software Deployment](https://github.com/huzaifah-cyber/Enterprise-Windows-Active-Directory)** (🥇**Flagship**)
 
 - **[Service Desk Infrastructure: Production osTicket Deployment](https://github.com/huzaifah-cyber/Enterprise-Service-Desk-Platform)**
 
