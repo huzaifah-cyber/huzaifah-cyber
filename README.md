@@ -1,6 +1,6 @@
 <h1>Welcome, I'm Huzaifah! <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=700&color=4D148C&background=FFFFFFFF&center=false&vCenter=true&width=1100&height=40&lines=Cybersecurity;Information+Technology;Cloud+Security;Professional;SOC+Analyst&repeat=false" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=150&pause=200&color=FF003C&background=FFFFFFFF&center=false&vCenter=true&width=1100&height=40&lines=C;CY;CYB;CYBE;CYBER;CYBER+;CYBER+S;CYBER+SE;CYBER+SEC;CYBER+SECU;CYBER+SECUR;CYBER+SECURI;CYBER+SECURIT;CYBER+SECURITY;CYBER+SECURITY+;CYBER+SECURITY+A;CYBER+SECURITY+AN;CYBER+SECURITY+ANA;CYBER+SECURITY+ANAL;CYBER+SECURITY+ANALY;CYBER+SECURITY+ANALY%E2%96%8C;CYBER+SECURITY+ANALY%E2%96%8C;CYBER+SECURITY+ANALY%E2%96%8C;CYBER+SECURITY+ANALYS%E2%96%8C;CYBER+SECURITY+ANALYS%E2%96%8C;CYBER+SECURITY+ANALYS%E2%96%8C;CYBER+SECURITY+ANALYS%E2%96%8C+error;CYBER+SECURITY+ANALYS%E2%96%8C+error...loading;CYBER+SECURITY+ANALYS%E2%96%8C+error...loading;CYBER+SECURITY+ANALYS%E2%96%8C+error...loading;CYBER+SECURITY+ANALYS%E2%96%8C+error...loading;CYBER+SECURITY+ANALYS%E2%96%8C+error...loading;CYBER+SECURITY+ANALYS%E2%96%8C+error...loading;CYBER+SECURITY+ANALYST&repeat=false" alt="Cyber Security Analyst">
   
 <h2>👨‍💻 Cyber & Cloud Security Projects:</h2>
 
