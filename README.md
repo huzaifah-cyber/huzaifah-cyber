@@ -22,6 +22,8 @@
 
 - **[Threat Hunting: Just Another Day](https://github.com/huzaifah-cyber/threat-hunt-jad-1)**
 
+- **[Threat Hunting: Just Another Day Part 2](https://github.com/huzaifah-cyber/threat-hunt-jad-2)**
+
 - **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/huzaifah-cyber/threat-hunt-tor-scenario/tree/main)**
 
 <h2>👨‍💻 IT Projects:</h2>
