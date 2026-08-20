@@ -6,13 +6,13 @@
 
 - **[Azure SOC Honeypot with Attack Map & Cloud Security Hardening](https://github.com/huzaifah-cyber/Azure-SOC-Honeypot-with-Attack-Map)** (🥇**Flagship**)
 
-- **[Windows 11 DISA STIG Remediations using PowerShell](https://github.com/huzaifah-cyber/Windows-11-STIG-Remediations)**
-
 - **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
 <h2>💣 Vulnerability Management Projects:</h2>
 
 - **[Vulnerability Management with Tenable Nessus & DISA STIG Hardening](https://github.com/huzaifah-cyber/Vulnerability-Management-with-Tenable-Nessus/tree/main)** (🥇**Flagship**)
+
+- **[Windows 11 DISA STIG Remediations using PowerShell](https://github.com/huzaifah-cyber/Windows-11-STIG-Remediations)**
 
 - **[Vulnerability Management Program Implementation](https://github.com/huzaifah-cyber/Vulnerability-Management-Program-Implementation)**
 
