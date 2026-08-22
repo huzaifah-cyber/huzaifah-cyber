@@ -26,6 +26,8 @@
 
 - **[Threat Hunting: Scattered Invoice](https://github.com/huzaifah-cyber/threat-hunt-scattered-invoice)**
 
+- **[Threat Hunting: Rocky Clinic OpenEMR Breach](https://github.com/huzaifah-cyber/threat-hunt-rocky-clinic)**
+
 - **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/huzaifah-cyber/threat-hunt-tor-scenario/tree/main)**
 
 <h2>🖥️ IT Projects:</h2>
