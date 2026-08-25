@@ -8,7 +8,7 @@
 
 - **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
-<h2>💣 Vulnerability Management Projects:</h2>
+<h2>⚠️ Vulnerability Management Projects:</h2>
 
 - **[Vulnerability Management with Tenable Nessus & DISA STIG Hardening](https://github.com/huzaifah-cyber/Vulnerability-Management-with-Tenable-Nessus/tree/main)** (🥇**Flagship**)
 
