@@ -16,6 +16,12 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/huzaifah-cyber/Vulnerability-Management-Program-Implementation)**
 
+<h2>🖥️ IT Projects:</h2>
+
+- **[Enterprise Windows Active Directory Lab with Local DNS/DHCP, Group Policies & Software Deployment](https://github.com/huzaifah-cyber/Enterprise-Windows-Active-Directory)** (🥇**Flagship**)
+
+- **[Service Desk Infrastructure: Production osTicket Deployment](https://github.com/huzaifah-cyber/Enterprise-Service-Desk-Platform)**
+
 <h2>💀 Threat Hunting Records:</h2>
 
 - **[Threat Hunting: Operation Overreach](https://github.com/huzaifah-cyber/threat-hunt-operation-overreach)** (🥇**Flagship**)
@@ -29,12 +35,6 @@
 - **[Threat Hunting: Rocky Clinic OpenEMR Breach](https://github.com/huzaifah-cyber/threat-hunt-rocky-clinic)**
 
 - **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/huzaifah-cyber/threat-hunt-tor-scenario/tree/main)**
-
-<h2>🖥️ IT Projects:</h2>
-
-- **[Enterprise Windows Active Directory Lab with Local DNS/DHCP, Group Policies & Software Deployment](https://github.com/huzaifah-cyber/Enterprise-Windows-Active-Directory)** (🥇**Flagship**)
-
-- **[Service Desk Infrastructure: Production osTicket Deployment](https://github.com/huzaifah-cyber/Enterprise-Service-Desk-Platform)**
 
 <h2>💻 Software Development Projects:</h2>
 
