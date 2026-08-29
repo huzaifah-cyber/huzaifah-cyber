@@ -28,7 +28,7 @@
 
 - **[Threat Hunting: Just Another Day](https://github.com/huzaifah-cyber/threat-hunt-jad-1)**
 
-- **[Threat Hunting: Just Another Day Part 2](https://github.com/huzaifah-cyber/threat-hunt-jad-2)**
+- **[Threat Hunting: Just Another Day Part 2](https://github.com/huzaifah-cyber/threat-hunt-jad-2)** (🥇**Flagship**)
 
 - **[Threat Hunting: Scattered Invoice](https://github.com/huzaifah-cyber/threat-hunt-scattered-invoice)**
 
