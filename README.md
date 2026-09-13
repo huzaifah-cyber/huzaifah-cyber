@@ -65,3 +65,12 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=huzaifah-cyber&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+<table border="0" style="border-collapse: collapse;">
+<tr>
+  <td width="40%" valign="top" align="center">
+  <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif" width="300px" alt="Status GIF" />
+  </td>
+</tr>
+</table>
