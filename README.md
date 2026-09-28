@@ -2,13 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=150&pause=100&color=FF003C&background=FFFFFFFF&center=false&vCenter=true&width=1100&height=40&lines=C;CY;CYB;CYBE;CYBER;CYBER+;CYBER+S;CYBER+SE;CYBER+SEC;CYBER+SECU;CYBER+SECUR;CYBER+SECURI;CYBER+SECURIT;CYBER+SECURITY;CYBER+SECURITY+;CYBER+SECURITY+A;CYBER+SECURITY+AN;CYBER+SECURITY+ANA;CYBER+SECURITY+ANAL;CYBER+SECURITY+ANALY;CYBER+SECURITY+ANALY%E2%96%8C;CYBER+SECURITY+ANALY%E2%96%8C;CYBER+SECURITY+ANALY%E2%96%8C;CYBER+SECURITY+ANALYS%E2%96%8C;CYBER+SECURITY+ANALYS%E2%96%8C;CYBER+SECURITY+ANALYS%E2%96%8C;CYBER+SECURITY+ANALYS%E2%96%8C+loading...;CYBER+SECURITY+ANALYS%E2%96%8C+loading.....+lag;CYBER+SECURITY+ANALYS%E2%96%8C+loading.....+lag;CYBER+SECURITY+ANALYS%E2%96%8C+loading.....+lag;CYBER+SECURITY+ANALYS%E2%96%8C+loading.....+lag;CYBER+SECURITY+ANALYS%E2%96%8C+loading.....+lag;CYBER+SECURITY+ANALYS%E2%96%8C+loading.....+lag;CYBER+SECURITY+ANALYST%E2%96%8C+loading.....+lag;CYBER+SECURITY+ANALYST%E2%96%8C+loading.....+lag;:)+:|+:-);:)+:|+:-);:)+:|+:-);:)+:|+:-);:)+:|+:-);:)+:|+:-);Cybersecurity+Analyst&repeat=false" alt="Cybersecurity+Analyst">
   
-<h2>🩻 Cyber & Cloud Security Projects:</h2>
+<h2>🔱 Cyber & Cloud Security Projects:</h2>
 
 - **[Azure SOC Honeypot with Attack Map & Cloud Security Hardening](https://github.com/huzaifah-cyber/Azure-SOC-Honeypot-with-Attack-Map)** (🥇**Flagship**)
 
 - **[Azure Security Engineering (AZ-500) Projects](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main)**
 
-<h2>⚠️ Vulnerability Management Projects:</h2>
+<h2>🚨 Vulnerability Management Projects:</h2>
 
 - **[Vulnerability Management with Tenable Nessus & DISA STIG Hardening](https://github.com/huzaifah-cyber/Vulnerability-Management-with-Tenable-Nessus/tree/main)** (🥇**Flagship**)
 
@@ -22,7 +22,7 @@
 
 - **[Service Desk Infrastructure: Production osTicket Deployment](https://github.com/huzaifah-cyber/Enterprise-Service-Desk-Platform)**
 
-<h2>💀 Threat Hunting Records:</h2>
+<h2>☠️ Threat Hunting Records:</h2>
 
 - **[Threat Hunting: Operation Overreach](https://github.com/huzaifah-cyber/threat-hunt-operation-overreach)** (🥇**Flagship**)
 
