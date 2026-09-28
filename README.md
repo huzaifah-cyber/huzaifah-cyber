@@ -36,7 +36,7 @@
 
 - **[Threat Hunting: Rocky Clinic OpenEMR Breach](https://github.com/huzaifah-cyber/threat-hunt-rocky-clinic)**
 
-- **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/huzaifah-cyber/threat-hunt-tor-scenario/tree/main)**
+- **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/huzaifah-cyber/threat-hunt-tor-scenario)**
 
 <h2>💻 Software Development Projects:</h2>
 
