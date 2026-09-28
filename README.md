@@ -32,6 +32,8 @@
 
 - **[Threat Hunting: Scattered Invoice](https://github.com/huzaifah-cyber/threat-hunt-scattered-invoice)**
 
+- **[Threat Hunting: Signals After the Noise](https://github.com/huzaifah-cyber/threat-hunt-signals-after-the-noise)**
+
 - **[Threat Hunting: Northpeak Descent](https://github.com/huzaifah-cyber/threat-hunt-northpeak-descent)**
 
 - **[Threat Hunting: Rocky Clinic OpenEMR Breach](https://github.com/huzaifah-cyber/threat-hunt-rocky-clinic)**
