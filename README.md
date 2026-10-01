@@ -49,6 +49,7 @@
 <h2>📜 Certifications </h2>
 
 - Microsoft Azure Security Engineer Associate (AZ-500) Professional Certificate<br/>
+- ISC2 Systems Security Certified Practitioner (SSCP) Certificate
 - Google Cybersecurity Professional Certificate<br/>
 - Google IT Support Professional Certificate
 - Google AI Professional Certificate
