@@ -73,6 +73,9 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
